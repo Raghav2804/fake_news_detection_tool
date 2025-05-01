@@ -1,0 +1,14 @@
+flask==2.2.3
+scikit-learn==1.2.2
+nltk==3.8.1
+numpy==1.24.2
+pandas==1.5.3
+lxml==4.9.3
+lxml-html-clean==0.4.2
+newspaper3k==0.2.8
+requests==2.28.2
+beautifulsoup4==4.12.0
+pytesseract==0.3.10
+opencv-python==4.7.0.72
+pillow==9.4.0
+werkzeug==2.2.3
